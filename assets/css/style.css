@@ -3,10 +3,14 @@ body, header{
     margin-top: 0 auto;
     background-color: rgb(238, 237, 237);
 }
-.logo{
+
+/* logo amazon */
+.logo{ 
     padding: 11px;
     background-color: #222F3F;
 }
+
+/* backgroun del logo */
 #logo{
     width: 10%;
     margin-left: 20px;
@@ -14,16 +18,20 @@ body, header{
     margin-top: 5px;
 }
 
+/* barra del menù*/
 .barra{
     background-color: #364759;
     width:99%;
     padding: 10px;
 }
+
+/* testo del "menù" */
 .p{
     display: inline;
     color: white;
     margin: 10px;
 }
+
 h1, h3{
     color: white;
     
@@ -43,6 +51,7 @@ h4{
     padding-top: 10px;
 }
 
+/* blocco sfondo arancione */
 .orange{
     margin-top: 2%;
     margin-right: 2%;
@@ -51,12 +60,15 @@ h4{
     background-color: #F46600;
     padding: 10px;
 }
+/* scritta dentro l'immagine background verde */
 .secondp{
     font-size: 20px;
     text-align: center;
     color: white;
     margin: 0;
 }
+
+/* scritta del div delle 4 immagini */
 .bg{
     margin-top: 2%;
     margin-right: 2%;
@@ -65,7 +77,9 @@ h4{
     background-image: url(../images/bg-image.png);
     padding: 30px;
 }
-.terzo{
+
+/* scritta nel blocco dove ci sono le 4 immagini */
+.scritte{
     background-color: white;
     border-radius: 10px;
     height: 200%;
@@ -75,6 +89,7 @@ h4{
     padding-bottom: 1%;
 }
 
+/* css delle 4 immagini */
 .img{
     width: 22%;
     height: 21vw;
@@ -84,6 +99,7 @@ h4{
     box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
 }
 
+/* larghezza immagini abnormi */
 .block{
     padding: 30px;
     text-align: center;
@@ -92,12 +108,15 @@ h4{
     width: 100%;
 }
 
+/* barra prima del footer */
 .barra2{
     background-color: #364759;
     width:99%;
     padding: 10px;
     text-align: center;
 }
+
+/* colore del link per ancora */
 a{
     color: white;
 }
@@ -106,6 +125,7 @@ footer{
     text-align: center;
 }
 
+/* logo per il footer */
 .logo2{
     width: 10%;
     padding-top: 2vw;
