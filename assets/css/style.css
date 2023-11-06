@@ -1,0 +1,116 @@
+body, header{
+    margin: 0 auto;
+    margin-top: 0 auto;
+    background-color: rgb(238, 237, 237);
+}
+.logo{
+    padding: 11px;
+    background-color: #222F3F;
+}
+#logo{
+    width: 10%;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.barra{
+    background-color: #364759;
+    width:99%;
+    padding: 10px;
+}
+.p{
+    display: inline;
+    color: white;
+    margin: 10px;
+}
+h1, h3{
+    color: white;
+    
+}
+h2, h4{
+    display: inline;
+}
+h2{
+    color:black;
+    margin-left: 1.6%;
+    padding-top: 10px;
+}
+h4{
+    color: #127089;
+    width: 20px;
+    margin-left: 1.6%;
+    padding-top: 10px;
+}
+
+.orange{
+    margin-top: 2%;
+    margin-right: 2%;
+    margin-left: 2%;
+    text-align: center;
+    background-color: #F46600;
+    padding: 10px;
+}
+.secondp{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    margin: 0;
+}
+.bg{
+    margin-top: 2%;
+    margin-right: 2%;
+    margin-left: 2%;
+    text-align: center;
+    background-image: url(../images/bg-image.png);
+    padding: 30px;
+}
+.terzo{
+    background-color: white;
+    border-radius: 10px;
+    height: 200%;
+    margin-top: 2%;
+    margin-right: 2%;
+    margin-left: 2%;
+    padding-bottom: 1%;
+}
+
+.img{
+    width: 22%;
+    height: 21vw;
+    border-radius: 20px;
+    margin-right: 1%;
+    margin-left: 1.6%;
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+}
+
+.block{
+    padding: 30px;
+    text-align: center;
+}
+.abnorme{
+    width: 100%;
+}
+
+.barra2{
+    background-color: #364759;
+    width:99%;
+    padding: 10px;
+    text-align: center;
+}
+a{
+    color: white;
+}
+
+footer{
+    text-align: center;
+}
+
+.logo2{
+    width: 10%;
+    padding-top: 2vw;
+    padding-bottom: 3vw;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
